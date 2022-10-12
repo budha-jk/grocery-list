@@ -15,7 +15,7 @@ bgContainerEl.appendChild(orderlistContainer);
 let groceryItems = [
     "Milk", "peanut Butter", "choco Chips", "Tomato Sauce",
     "Noodles"," Cup Cakes"
-];
+]; 
 
 for (let groceryItem of groceryItems){
 let listItemElement = document.createElement("li");
